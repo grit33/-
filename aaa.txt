@@ -1,3 +1,7 @@
 aaa
 bbbb
+<<<<<<< HEAD
 vvvv
+=======
+ccc
+>>>>>>> 28e3ae6f4e4d5aa57fc012adb1a67bb16ebd074c
